@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item>
+        <name>None</name>
+        <quote>None</quote>
+        <birth_death_info>
+            <birth_date>None</birth_date>
+            <birth_place>None</birth_place>
+            <death_date>None</death_date>
+            <death_place>None</death_place>
+        </birth_death_info>
+        <notes>None</notes>
+    </item>
+    <item>
+        <name>Eivor Varinsdóttir</name>
+        <quote>Les blessures qu'on ignore ne guérissent jamais bien. Elles doivent être assainies et
+            bandées, sous peine de s'envenimer.</quote>
+        <birth_death_info>
+            <birth_date>847</birth_date>
+            <birth_place>Norvège</birth_place>
+            <death_date>Vinland</death_date>
+            <death_place>None</death_place>
+        </birth_death_info>
+        <notes>None</notes>
+        <url>https://assassinscreed.fandom.com/fr/wiki/Eivor_Varinsdóttir</url>
+    </item>
+    <item>
+        <name>Basim Ibn Ishaq</name>
+        <quote>L'Héritière… des souvenirs a tenu son rôle à la perfection. Et maintenant… Un nouveau
+            monde nous attend.</quote>
+        <birth_death_info>
+            <birth_date>835</birth_date>
+            <birth_place>[1]</birth_place>
+            <death_date>NC</death_date>
+            <death_place>None</death_place>
+        </birth_death_info>
+        <notes>None</notes>
+        <url>https://assassinscreed.fandom.com/fr/wiki/Basim_Ibn_Ishaq</url>
+    </item>
+    <item>
+        <name>None</name>
+        <quote>None</quote>
+        <birth_death_info>
+            <birth_date>None</birth_date>
+            <birth_place>None</birth_place>
+            <death_date>None</death_date>
+            <death_place>None</death_place>
+        </birth_death_info>
+        <notes>None</notes>
+    </item>
+    <item>
+        <name>None</name>
+        <quote>None</quote>
+        <birth_death_info>
+            <birth_date>None</birth_date>
+            <birth_place>None</birth_place>
+            <death_date>None</death_date>
+            <death_place>None</death_place>
+        </birth_death_info>
+        <notes>None</notes>
+    </item>
+    <item>
+        <name>None</name>
+        <quote>None</quote>
+        <birth_death_info>
+            <birth_date>None</birth_date>
+            <birth_place>None</birth_place>
+            <death_date>None</death_date>
+            <death_place>None</death_place>
+        </birth_death_info>
+        <notes>None</notes>
+    </item>
+    <item>
+        <name>None</name>
+        <quote>None</quote>
+        <birth_death_info>
+            <birth_date>None</birth_date>
+            <birth_place>None</birth_place>
+            <death_date>None</death_date>
+            <death_place>None</death_place>
+        </birth_death_info>
+        <notes>None</notes>
+    </item>
+    <item>
+        <name>Machaon</name>
+        <quote>Écoute, je ne pose pas de questions. Je suis les ordres.</quote>
+        <birth_death_info>
+            <birth_date>NC</birth_date>
+            <birth_place>None</birth_place>
+            <death_date>v. 431 AEC</death_date>
+            <death_place>Patrai</death_place>
+        </birth_death_info>
+        <notes>
+            <titre>Lettre au Griffon d'argent</titre>
+            <contenu>Peau d'argent,On dit que Deimos est venu te voir à propos de notre petit souci.
+                Nous avons besoin de lui. Klitos, un débardeur, a volé des plans dans mon bureau. Il
+                sait tout : comment nous amenons les Athéniens et les Spartiates à se battre sur
+                mer, nos ventes de navires aux deux camps… Il connaît même l'identité du Sage et le
+                fort où il se trouve. Il faut que Deimos le trouve et le fasse taire avant qu'il ait
+                pu parler à quiconque. Dis-lui que Klitos a été vu pour la dernière fois alors qu'il
+                se rendait à la crique de l'Épave, en Achaia. Dis-lui d'agir vite et de se montrer
+                violent.Que le monde te soit redevable. M.
+</contenu>
+        </notes>
+        <url>https://assassinscreed.fandom.com/fr/wiki/Machaon</url>
+    </item>
+    <item>
+        <name>Le Griffon d'argent</name>
+        <quote>L'esclavage est naturel. Il est nécessaire.</quote>
+        <birth_death_info>
+            <birth_date>NC</birth_date>
+            <birth_place>None</birth_place>
+            <death_date>v. 431 AEC</death_date>
+            <death_place>Île de Prasonisia</death_place>
+        </birth_death_info>
+        <notes>
+            <titre>Cadeau de propriétaire d'esclaves</titre>
+            <contenu>Contremaître,Ce présent pour te remercier de ton aide avec notre petit souci
+                d'esclaves. Je l'ai trouvé parmi les affaires d'Epiktetos, après… l'intervention de
+                Deimos. C'est une sorte de trophée, de même que l'on pourrait placer une tête de
+                lion sur une pique. C'est pour toi. J'aimerais te voir dedans. Viens sur l'île de
+                Prasonisia… en l'absence de toute compagnie. Que le monde te soit redevable. Griffon
+                d'argent
+</contenu>
+        </notes>
+        <url>https://assassinscreed.fandom.com/fr/wiki/Le_Griffon_d_argent</url>
+    </item>
+    <item>
+        <name>La Chimère</name>
+        <quote>Que vaut une vie sans un millier d'autres derrière elle ?</quote>
+        <birth_death_info>
+            <birth_date>NC</birth_date>
+            <birth_place>None</birth_place>
+            <death_date>v. 431 AEC</death_date>
+            <death_place>Campement de plage</death_place>
+        </birth_death_info>
+        <notes>
+            <titre>Notes d'expédition d'Adepte</titre>
+            <contenu>Je l'ai trouvée : Andros abrite la plus vaste et la plus ancienne forge du
+                monde connu. Je demande des esclaves, des gardes, des navires, des drachmes et du
+                métal. Au nom de Kosmos, nous allons construire le plus grand arsenal au monde. Qui
+                va m'accompagner ?Que le monde te soit redevable.La Chimère
+</contenu>
+        </notes>
+        <url>https://assassinscreed.fandom.com/fr/wiki/La_Chimère</url>
+    </item>
+</items>
