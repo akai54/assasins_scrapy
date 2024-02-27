@@ -22,11 +22,6 @@ FEEDS = {
 
 SCRAPEOPS_API_KEY = os.getenv("SCRAPEOPS_API_KEY")
 
-if SCRAPEOPS_API_KEY is None:
-    print('API key not found. Please check your .env file.')
-else:
-    print('API key found')
-
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents'
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_FAKE_BROWSER_HEADER_ENABLED = True
